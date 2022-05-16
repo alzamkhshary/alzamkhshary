@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alzamkhshary awad from Egypt 
+- 👋 Hi, I’m @alzamkhshary awad 
 - 👀 I’m interested in ...mobile applications and games and AI
 - 🌱 I’m currently learning ... kotlin and java and unity etc
 - 💞️ I’m looking to collaborate on ... create creative mobile application 
